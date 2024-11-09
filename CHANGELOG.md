@@ -1,5 +1,20 @@
 # Changelog
 
+## [2024.11.6](https://github.com/jdx/mise/compare/v2024.11.5..v2024.11.6) - 2024-11-09
+
+### 🚀 Features
+
+- **(backend)** add a setting to use bun in npm backend by [@risu729](https://github.com/risu729) in [#2899](https://github.com/jdx/mise/pull/2899)
+
+### 📚 Documentation
+
+- load core plugins when rendering registry doc by [@jdx](https://github.com/jdx) in [00ef7b4](https://github.com/jdx/mise/commit/00ef7b4d5c59047e795c0fc2476bde386decc363)
+- added core plugins to registry by [@jdx](https://github.com/jdx) in [#2976](https://github.com/jdx/mise/pull/2976)
+
+### 🧪 Testing
+
+- added e2e test with multiple scripts by [@jdx](https://github.com/jdx) in [a89a5ee](https://github.com/jdx/mise/commit/a89a5eec402bf693e274334771d4386c2f752834)
+
 ## [2024.11.5](https://github.com/jdx/mise/compare/v2024.11.4..v2024.11.5) - 2024-11-09
 
 ### 🚀 Features
